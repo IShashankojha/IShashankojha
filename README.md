@@ -1,5 +1,6 @@
- <h1 align="center">Hi 👋, I'm Shashank Ojha</h1>
-<h3 align="center">A passionate Full Stack Developer From india</h3>
+![logo](https://github.com/IShashankojha/IShashankojha/blob/main/github-header-image%20(1).png)
+<h1 align="center">Hi 👋, I'm Shashank Ojha</h1>
+<h3 align="center">A Passionate Full Stack Developer From india</h3>
 <img align="right" alt="coder" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishashankojha&label=Profile%20views&color=0e75b6&style=flat" alt="ishashankojha" /> </p>
