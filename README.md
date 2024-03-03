@@ -1,5 +1,9 @@
 ![logo](https://github.com/IShashankojha/IShashankojha/blob/main/github-header-image%20(1).png)
-<h1 align="center">Hi 👋, I'm Shashank Ojha</h1>
+<h1 align="center"> Hello there! 👋, Welcome to My GitHub Profile! 👋
+Thank you for visiting my GitHub profile.
+Feel free to Explore my Repositories and Projects.
+If you have Any Questions or Suggestions, Don't Hesitate to reach out.
+Happy coding! 🚀</h1>
 <h3 align="center">A Passionate Full Stack Developer From india</h3>
 <img align="right" alt="coder" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
